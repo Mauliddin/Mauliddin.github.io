@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Mauliddin Nur Muhammad
     subtitle: "Electrical Engineering Student"
-    imageUrl: "<img location>"
+    imageUrl: "me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -77,12 +77,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: instagram
+      url: "https://instagram.com/mauliddinnurm"
+    - name: linkedin
+      url: "https://linkedin.com/in/mauliddin-nur-muhammad-2a6178245"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Mauliddin"
 
   analytics:
     google:
@@ -114,14 +114,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
     - identifier: projects
       name: projects
       url: /projects/
       weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org
