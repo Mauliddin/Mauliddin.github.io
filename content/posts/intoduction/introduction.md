@@ -8,7 +8,8 @@ Helo ! 👋.
 
 My name is Mauliddin Nur Muhammad.
 
-I'm a student of Electical Engineering at Universitas Mataram, Indonesia.
+I'm a student of Electrical Engineering at Universitas Mataram, Indonesia.
+
 I love to learn new things and i like programming too!
 
 whith this blog i will shared my learning and project.
