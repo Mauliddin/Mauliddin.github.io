@@ -79,7 +79,8 @@ params:
 
   socialIcons:
     - name: instagram
-      text: "instagram"
+      label:
+        text: "instagram"
       url: "https://instagram.com/mauliddinnurm"
     - name: linkedin
       url: "https://linkedin.com/in/mauliddin-nur-muhammad-2a6178245"
