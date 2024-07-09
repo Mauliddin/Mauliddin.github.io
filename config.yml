@@ -120,7 +120,7 @@ menu:
       url: /posts/
       weight: 10
     - identifier: projects
-      name: projects
+      name: Projects
       url: /projects/
       weight: 20
     - identifier: tags
