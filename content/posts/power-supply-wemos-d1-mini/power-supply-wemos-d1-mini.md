@@ -1,7 +1,7 @@
 ---
 title: "Power Supply Untuk Wemos D1 Mini"
 date: 2024-10-02
-tags: ["article", "posts"]
+tags: ["article", "posts", "Wemos D1 mini", "Esp8266"]
 ---
 
 Saya sedang mengerjakan sebuah proyek mesh network menggunakan Wemos D1 Mini (ESP8266). Awalnya, saya mencari solusi power supply yang hemat biaya untuk 10 perangkat Wemos D1 Mini. Saya sempat mempertimbangkan untuk menggunakan baterai lithium 18650, namun harganya cukup mahal.
